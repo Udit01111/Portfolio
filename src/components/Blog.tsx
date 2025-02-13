@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
-import { Calendar, User, MapPin, Camera, Heart, ChevronLeft, ChevronRight } from 'lucide-react';
+import { Calendar, User, MapPin, Heart, ChevronLeft, ChevronRight } from 'lucide-react';
 import { useState } from 'react';
 
 interface BlogPost {
