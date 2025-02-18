@@ -12,11 +12,11 @@ export function About() {
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
 
   const images = [
-    'https://i.postimg.cc/vHg5k4pw/1.png',
-    'https://i.postimg.cc/LX81T5z7/2.png',
-    'https://i.postimg.cc/x8kNwZp3/3.png',
-    'https://i.postimg.cc/fT90569w/4.png',
-    'https://i.postimg.cc/1tdfrHRn/5.png'
+    'https://i.postimg.cc/0QMr7PtJ/1.png',
+    'https://i.postimg.cc/ZYLzjX19/2.png',
+    'https://i.postimg.cc/52yHfBw3/3.png',
+    'https://i.postimg.cc/76wwZ4Fk/4.png',
+    'https://i.postimg.cc/KjYbtNcp/5.png'
   ];
 
   useEffect(() => {

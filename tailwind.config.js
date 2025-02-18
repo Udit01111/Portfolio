@@ -22,6 +22,9 @@ export default {
           900: '#581c87',
         },
       },
+      animation: {
+        'gradient-xy': 'gradient-xy 15s ease infinite',
+      },
     },
   },
   plugins: [],

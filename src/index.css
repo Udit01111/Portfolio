@@ -15,4 +15,21 @@ body {
     background: radial-gradient(circle, #000000, #141414); /* Replace with your original gradient */
     color: white;
 }
-  
+@keyframes gradient-xy {
+    0%, 100% {
+    background-size: 400% 400%;
+    background-position: left top;
+    }
+    25% {
+      background-size: 400% 400%;
+      background-position: right top;
+    }
+    50% {
+      background-size: 400% 400%;
+      background-position: right bottom;
+    }
+    75% {
+      background-size: 400% 400%;
+      background-position: left bottom;
+    }
+  }
