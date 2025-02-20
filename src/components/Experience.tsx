@@ -10,9 +10,9 @@ export function Experience() {
 
   const experiences = [
     {
-      title: 'Senior Full-Stack Developer',
-      company: 'Tech Innovations Inc.',
-      period: '2020 - Present',
+      title: 'Lead Full-Stack Developer',
+      company: 'The Josh Squad',
+      period: '2023 - Present',
       achievements: [
         'Led a team of 5 developers in building a cloud-based SaaS platform',
         'Improved application performance by 40% through optimization',
@@ -126,7 +126,7 @@ export function Experience() {
             </div>
             
             <div>
-              <h3 className="text-2xl font-semibold text-gray-900 dark:text-white mb-8">Cert ifications</h3>
+              <h3 className="text-2xl font-semibold text-gray-900 dark:text-white mb-8">Certifications</h3>
               <div className="grid gap-6">
                 {certifications.map((cert, index) => (
                   <motion.div

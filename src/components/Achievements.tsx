@@ -17,6 +17,34 @@ export function Achievements() {
       date: "March 2024"
     },
     {
+      title: "First Place - Global Hackathon 2024",
+      description: "Led a team of 4 to develop an AI-powered sustainability solution",
+      image: "https://images.unsplash.com/photo-1496469888073-80de7e952517?fit=crop&w=800&h=600",
+      category: "Hackathon",
+      date: "March 2024"
+    },
+    {
+      title: "First Place - Global Hackathon 2024",
+      description: "Led a team of 4 to develop an AI-powered sustainability solution",
+      image: "https://images.unsplash.com/photo-1496469888073-80de7e952517?fit=crop&w=800&h=600",
+      category: "Hackathon",
+      date: "March 2024"
+    },
+    {
+      title: "First Place - Global Hackathon 2024",
+      description: "Led a team of 4 to develop an AI-powered sustainability solution",
+      image: "https://images.unsplash.com/photo-1496469888073-80de7e952517?fit=crop&w=800&h=600",
+      category: "Hackathon",
+      date: "March 2024"
+    },
+    {
+      title: "First Place - Global Hackathon 2024",
+      description: "Led a team of 4 to develop an AI-powered sustainability solution",
+      image: "https://images.unsplash.com/photo-1496469888073-80de7e952517?fit=crop&w=800&h=600",
+      category: "Hackathon",
+      date: "March 2024"
+    },
+    {
       title: "Best Innovation Award",
       description: "Developed a revolutionary healthcare monitoring system",
       image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?fit=crop&w=800&h=600",

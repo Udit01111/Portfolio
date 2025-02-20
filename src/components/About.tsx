@@ -29,21 +29,21 @@ export function About() {
 
   const timelineItems = [
     {
-      year: '2020 - Present',
-      title: 'Senior Full-Stack Developer',
-      company: 'Tech Innovations Inc.',
-      icon: <Briefcase className="w-6 h-6" />,
-    },
-    {
-      year: '2018 - 2020',
+      year: '2023 - Present',
       title: 'Full-Stack Developer',
-      company: 'Digital Solutions Ltd.',
+      company: 'The Josh Squad',
       icon: <Briefcase className="w-6 h-6" />,
     },
     {
-      year: '2014 - 2018',
-      title: 'Computer Science, BSc',
-      company: 'Tech University',
+      year: '2022 - 2026',
+      title: 'B.tech CSE Student',
+      company: 'Chandigarh University',
+      icon: <GraduationCap className="w-6 h-6" />,
+    },
+    {
+      year: '2020 - 2022',
+      title: 'Chemistry, BSc',
+      company: 'National Defence Academy in affialation with JNU',
       icon: <GraduationCap className="w-6 h-6" />,
     },
   ];
@@ -126,9 +126,11 @@ export function About() {
             
             <div>
               <p className="text-gray-300 mb-6">
-                With over 6 years of experience in full-stack development, I specialize in building
-                scalable web applications using modern technologies. My passion lies in creating
-                elegant solutions to complex problems while ensuring the best possible user experience.
+              With a background as an Ex NDA officer Cadet (2020-22) and currently pursuing Computer Science Engineering at Chandigarh University ('26), 
+              I am passionate about technology and innovation. Skilled in C++, DSA, WebD , and Cybersecurity, I thrive on solving complex problems and optimizing 
+              systems. 
+              My journey reflects resilience, adaptability, and a relentless pursuit of growth. 
+              I actively seek opportunities to apply my skills, collaborate on impactful projects, and contribute to the evolving digital landscape.
               </p>
               
               <div className="space-y-6">
