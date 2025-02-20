@@ -73,9 +73,9 @@ export function Projects() {
       githubUrl: 'https://github.com/Udit01111/TruckerBid',
     },
     {
-      title: 'AI Content Generator',
-      description: 'AI-powered content generation tool using OpenAI GPT-3 API.',
-      longDescription: 'An innovative content generation platform that leverages AI to help creators produce high-quality content efficiently with customizable templates and styles.',
+      title: 'Atlanz',
+      description: 'Atlanz- Revolutionizing Vehicle Management for Smart Cities',
+      longDescription: 'Atlanz is an advanced vehicle management system that introduces a Vehicle-to-Everything (V2X) model, creating a connected network between vehicles, infrastructure, and the environment. Atlanz employs a dynamic traffic light system that adjusts signal timing based on real-time vehicle density data. This system optimizes traffic flow, reducing congestion and travel time.',
       image: 'https://images.unsplash.com/photo-1677442136019-21780ecad995?fit=crop&w=800&h=500',
       tags: ['Python', 'FastAPI', 'React', 'OpenAI'],
       features: [
@@ -93,8 +93,8 @@ export function Projects() {
         'PostgreSQL',
         'Redis',
       ],
-      demoUrl: 'https://example.com',
-      githubUrl: 'https://github.com',
+      demoUrl: 'https://atlanz.in/',
+      githubUrl: 'https://github.com/Priyanshu6268/Victorious_HackBMU?tab=readme-ov-file',
     },
   ];
 

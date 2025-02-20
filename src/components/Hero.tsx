@@ -35,7 +35,7 @@ export function Hero() {
             <div className="flex flex-wrap gap-4 justify-center md:justify-start">
               <button className="px-6 py-3 bg-gradient-to-r from-yellow-400 to-yellow-500 text-gray-900 rounded-lg font-semibold hover:from-yellow-500 hover:to-yellow-600 transition-all duration-300 flex items-center gap-2 transform hover:scale-105">
                 <FileText size={20} />
-                Download Resume
+                <a href='https://github.com/Udit01111'>Download Resume</a>
               </button>
               <button className="px-6 py-3 border-2 border-yellow-400 dark:border-yellow-500 text-yellow-500 dark:text-yellow-400 rounded-lg font-semibold hover:bg-yellow-500 hover:text-gray-900 transition-all duration-300 transform hover:scale-105">
                 Hire Me
