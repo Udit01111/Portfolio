@@ -10,58 +10,58 @@ export function Achievements() {
 
   const achievements = [
     {
-      title: "First Place - Global Hackathon 2024",
+      title: "First Place - Teckathon Hackathon 2024",
       description: "Led a team of 4 to develop an AI-powered sustainability solution",
-      image: "https://images.unsplash.com/photo-1496469888073-80de7e952517?fit=crop&w=800&h=600",
+      image: "https://i.postimg.cc/N0yYXdDJ/IMG-20250220-WA0007.jpg?fit=crop&w=800&h=600",
       category: "Hackathon",
       date: "March 2024"
     },
     {
-      title: "First Place - Global Hackathon 2024",
+      title: "First Place - Haccino Hackathon 2024",
       description: "Led a team of 4 to develop an AI-powered sustainability solution",
-      image: "https://images.unsplash.com/photo-1496469888073-80de7e952517?fit=crop&w=800&h=600",
+      image: "https://i.postimg.cc/Fsm96gFz/IMG-20250220-WA0009.jpg?fit=crop&w=800&h=600",
       category: "Hackathon",
       date: "March 2024"
     },
     {
-      title: "First Place - Global Hackathon 2024",
-      description: "Led a team of 4 to develop an AI-powered sustainability solution",
-      image: "https://images.unsplash.com/photo-1496469888073-80de7e952517?fit=crop&w=800&h=600",
-      category: "Hackathon",
-      date: "March 2024"
-    },
-    {
-      title: "First Place - Global Hackathon 2024",
-      description: "Led a team of 4 to develop an AI-powered sustainability solution",
-      image: "https://images.unsplash.com/photo-1496469888073-80de7e952517?fit=crop&w=800&h=600",
-      category: "Hackathon",
-      date: "March 2024"
-    },
-    {
-      title: "First Place - Global Hackathon 2024",
-      description: "Led a team of 4 to develop an AI-powered sustainability solution",
-      image: "https://images.unsplash.com/photo-1496469888073-80de7e952517?fit=crop&w=800&h=600",
-      category: "Hackathon",
-      date: "March 2024"
-    },
-    {
-      title: "Best Innovation Award",
-      description: "Developed a revolutionary healthcare monitoring system",
-      image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?fit=crop&w=800&h=600",
+      title: "Third Place - Global Hackathon 2024",
+      description: "FarmPe- A solution to help farmers with AI and ML",
+      image: "https://i.postimg.cc/XqqG0FdB/aa.jpg?fit=crop&w=800&h=600",
       category: "Innovation",
-      date: "December 2023"
+      date: "March 2024"
+    },
+    {
+      title: "Best Innovation Award- Tech Invent 2024",
+      description: "The Josh Squad- An online platform for Defence aspirants",
+      image: "https://i.postimg.cc/CK0Rx9bg/bb.jpg?fit=crop&w=800&h=600",
+      category: "Innovation",
+      date: "March 2024"
     },
     {
       title: "Tech Conference Speaker",
       description: "Keynote speaker at International Developer Conference",
-      image: "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?fit=crop&w=800&h=600",
+      image: "https://i.postimg.cc/C1zB3kjB/cc.jpg?fit=crop&w=800&h=600",
       category: "Speaking",
       date: "October 2023"
     },
     {
-      title: "Open Source Contribution",
-      description: "Major contribution to React ecosystem with 1000+ stars",
-      image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?fit=crop&w=800&h=600",
+      title: "Code Quest 1.0",
+      description: "Developed a revolutionary healthcare monitoring system",
+      image: "https://i.postimg.cc/J0CPxhLD/IMG-20250220-WA0004.jpg?fit=crop&w=800&h=600",
+      category: "Development",
+      date: "December 2023"
+    },
+    {
+      title: "Half-Marathon",
+      description: "Keynote speaker at International Developer Conference",
+      image: "https://i.postimg.cc/xTydjppL/IMG-20250220-WA0012.jpg?fit=crop&w=800&h=600",
+      category: "Sports",
+      date: "October 2023"
+    },
+    {
+      title: "Best Cadet- Trekking Camp",
+      description: "10-day trekking expedition in the Almora,with 500+ NCC Cadets",
+      image: "https://i.postimg.cc/Df1CZ1rq/IMG-20241216-WA0228.jpg?fit=crop&w=800&h=600",
       category: "Development",
       date: "August 2023"
     }
