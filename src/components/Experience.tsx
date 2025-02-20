@@ -10,42 +10,43 @@ export function Experience() {
 
   const experiences = [
     {
-      title: 'Lead Full-Stack Developer',
+      title: 'Full-Stack Developer',
       company: 'The Josh Squad',
       period: '2023 - Present',
       achievements: [
-        'Led a team of 5 developers in building a cloud-based SaaS platform',
+        'Led a team of 5 developers in building a cloud-based SaaS platform that increased user retention by 30%',
         'Improved application performance by 40% through optimization',
         'Implemented CI/CD pipeline reducing deployment time by 60%',
       ],
     },
     {
-      title: 'Full-Stack Developer',
-      company: 'Digital Solutions Ltd.',
-      period: '2018 - 2020',
+      title: 'Chief Technical Officer',
+      company: 'Trucker Bid Ltd.',
+      period: '2025 - present',
       achievements: [
-        'Developed and maintained multiple client projects using React and Node.js',
+        'Developed and maintained Web application transforming freight transportation in India using React and Node.js',
         'Integrated payment gateways and third-party APIs',
-        'Mentored junior developers and conducted code reviews',
+        'Led team of 6 and conducted code reviews',
       ],
     },
   ];
 
   const certifications = [
     {
-      name: 'AWS Certified Solutions Architect',
-      issuer: 'Amazon Web Services',
+      name: 'Intoduction to Cloud Computing',
+      issuer: 'IBM',
       date: '2023',
     },
+    
     {
       name: 'Google Cloud Professional Developer',
       issuer: 'Google Cloud',
       date: '2022',
     },
     {
-      name: 'MongoDB Certified Developer',
-      issuer: 'MongoDB University',
-      date: '2021',
+      name: 'NPTEL IoT Certified Professional',
+      issuer: 'NITTR Chandigarh',
+      date: '2025',
     },
   ];
 

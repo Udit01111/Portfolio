@@ -28,42 +28,42 @@ export function Achievements() {
       description: "FarmPe- A solution to help farmers with AI and ML",
       image: "https://i.postimg.cc/XqqG0FdB/aa.jpg?fit=crop&w=800&h=600",
       category: "Innovation",
-      date: "March 2024"
+      date: "July 2024"
     },
     {
       title: "Best Innovation Award- Tech Invent 2024",
       description: "The Josh Squad- An online platform for Defence aspirants",
       image: "https://i.postimg.cc/CK0Rx9bg/bb.jpg?fit=crop&w=800&h=600",
       category: "Innovation",
-      date: "March 2024"
+      date: "Feb 2024"
     },
     {
       title: "Tech Conference Speaker",
       description: "Keynote speaker at International Developer Conference",
       image: "https://i.postimg.cc/C1zB3kjB/cc.jpg?fit=crop&w=800&h=600",
       category: "Speaking",
-      date: "October 2023"
+      date: "August 2023"
     },
     {
       title: "Code Quest 1.0",
       description: "Developed a revolutionary healthcare monitoring system",
       image: "https://i.postimg.cc/J0CPxhLD/IMG-20250220-WA0004.jpg?fit=crop&w=800&h=600",
       category: "Development",
-      date: "December 2023"
+      date: "April 2022"
     },
     {
       title: "Half-Marathon",
       description: "Keynote speaker at International Developer Conference",
       image: "https://i.postimg.cc/xTydjppL/IMG-20250220-WA0012.jpg?fit=crop&w=800&h=600",
       category: "Sports",
-      date: "October 2023"
+      date: "October 2024"
     },
     {
       title: "Best Cadet- Trekking Camp",
       description: "10-day trekking expedition in the Almora,with 500+ NCC Cadets",
       image: "https://i.postimg.cc/Df1CZ1rq/IMG-20241216-WA0228.jpg?fit=crop&w=800&h=600",
-      category: "Development",
-      date: "August 2023"
+      category: "Extra-Curricular",
+      date: "July 2024"
     }
   ];
 

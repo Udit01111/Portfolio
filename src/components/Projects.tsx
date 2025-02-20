@@ -25,8 +25,8 @@ export function Projects() {
 
   const projects: Project[] = [
     {
-      title: 'E-Commerce Platform',
-      description: 'A full-featured e-commerce platform built with Next.js, TypeScript, and Stripe integration.',
+      title: 'The Josh Squad',
+      description: 'A full-featured online education platform built with MERN for defence aspirants.',
       longDescription: 'A comprehensive e-commerce solution that provides a seamless shopping experience with features like real-time inventory management, secure payments, and order tracking.',
       image: 'https://images.unsplash.com/photo-1557821552-17105176677c?fit=crop&w=800&h=500',
       tags: ['Next.js', 'TypeScript', 'Stripe', 'Tailwind CSS'],
@@ -49,9 +49,9 @@ export function Projects() {
       githubUrl: 'https://github.com',
     },
     {
-      title: 'Task Management App',
-      description: 'Real-time task management application with team collaboration features.',
-      longDescription: 'A powerful task management solution designed for teams to collaborate efficiently with real-time updates, task assignments, and progress tracking.',
+      title: 'Trucker Bid',
+      description: ' a digital logistics marketplace revolutionizing the freight industry by seamlessly connecting shippers with truck drivers.',
+      longDescription:'The Platform enables businesses to post their shipping needs while truckers bid for jobs, ensuring cost-effective, efficient, and transparent logistics solutions. By leveraging real-time bidding, AI-driven route optimization, and secure payment systems, TruckerBid eliminates inefficiencies, reduces empty miles, and maximizes earnings for drivers.It simplifies freight logistics and aims to bridge the gap between demand and supply, empowering both small businesses and independent truckers. Join us in redefining the future of trucking with TruckerBid – where every load finds the right truck at the right price.',
       image: 'https://images.unsplash.com/photo-1557804506-669a67965ba0?fit=crop&w=800&h=500',
       tags: ['React', 'Node.js', 'Socket.io', 'MongoDB'],
       features: [
@@ -69,8 +69,8 @@ export function Projects() {
         'Express.js',
         'JWT Authentication',
       ],
-      demoUrl: 'https://example.com',
-      githubUrl: 'https://github.com',
+      demoUrl: 'https://trucker-bid-cxkd.vercel.app/',
+      githubUrl: 'https://github.com/Udit01111/TruckerBid',
     },
     {
       title: 'AI Content Generator',
