@@ -12,7 +12,7 @@ export function Experience() {
     {
       title: 'Full-Stack Developer',
       company: 'The Josh Squad',
-      period: '2023 - Present',
+      period: '2023 - 2024',
       achievements: [
         'Led a team of 5 developers in building a cloud-based SaaS platform that increased user retention by 30%',
         'Improved application performance by 40% through optimization',
@@ -20,9 +20,9 @@ export function Experience() {
       ],
     },
     {
-      title: 'Chief Technical Officer',
+      title: 'Technical Lead',
       company: 'Trucker Bid Ltd.',
-      period: '2025 - present',
+      period: '2024 - present',
       achievements: [
         'Developed and maintained Web application transforming freight transportation in India using React and Node.js',
         'Integrated payment gateways and third-party APIs',
