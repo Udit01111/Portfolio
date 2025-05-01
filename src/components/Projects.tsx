@@ -28,7 +28,7 @@ export function Projects() {
       title: 'The Josh Squad',
       description: 'A full-featured online education platform built with MERN for defence aspirants.',
       longDescription: 'A comprehensive e-commerce solution that provides a seamless shopping experience with features like real-time inventory management, secure payments, and order tracking.',
-      image: 'https://images.unsplash.com/photo-1557821552-17105176677c?fit=crop&w=800&h=500',
+      image: 'https://i.ibb.co/93nr64YR/Screenshot-2025-05-01-093129.png?fit=crop&w=800&h=500',
       tags: ['Next.js', 'TypeScript', 'Stripe', 'Tailwind CSS'],
       features: [
         'User authentication and authorization',
