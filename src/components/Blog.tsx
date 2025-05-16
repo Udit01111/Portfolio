@@ -26,34 +26,34 @@ export function Blog() {
   const blogPosts: BlogPost[] = [
     {
       id: 1,
-      title: "Journey Through the Himalayas",
+      title: "Coming soon",
       category: 'trips',
-      date: "March 15, 2024",
+      date: "......",
       author: "Udit",
-      location: "Ladakh, India",
+      location: "Coming soon",
       image: "https://images.unsplash.com/photo-1506197603052-3cc9c3a201bd?fit=crop&w=800&h=400",
-      excerpt: "Exploring the breathtaking landscapes and rich culture of the Himalayas...",
-      likes: 245
+      excerpt: "Coming soon",
+      likes: 0
     },
     {
       id: 2,
-      title: "The Art of Street Photography",
+      title: "Coming soon",
       category: 'hobbies',
-      date: "March 10, 2024",
+      date: ".......",
       author: "Udit",
       image: "https://images.unsplash.com/photo-1570993492881-25240ce854f4?fit=crop&w=800&h=400",
-      excerpt: "Capturing life's candid moments through the lens...",
-      likes: 189
+      excerpt: "Coming soon",
+      likes: 0
     },
     {
       id: 3,
-      title: "Reflections on Technology",
+      title: "Coming soon",
       category: 'musings',
-      date: "March 5, 2024",
+      date: "........",
       author: "Udit",
       image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?fit=crop&w=800&h=400",
-      excerpt: "Thoughts on the future of web development and AI...",
-      likes: 156
+      excerpt: "Coming soon",
+      likes: 0
     }
   ];
 
