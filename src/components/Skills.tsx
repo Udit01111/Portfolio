@@ -39,21 +39,9 @@ export function Skills() {
       skills: [
         { name: 'PostgreSQL', level: 85 },
         { name: 'MongoDB', level: 80 },
-        { name: 'Redis', level: 75 },
-        { name: 'Prisma', level: 85 },
       ],
     },
-    {
-      title: 'DevOps',
-      icon: <Cloud className="w-6 h-6" />,
-      gradient: 'from-blue-500 via-indigo-500 to-purple-500',
-      skills: [
-        { name: 'Docker', level: 80 },
-        { name: 'AWS', level: 75 },
-        { name: 'CI/CD', level: 85 },
-        { name: 'Kubernetes', level: 70 },
-      ],
-    },
+    
   ];
 
   const TiltCard = ({ children, gradient }: { children: React.ReactNode; gradient: string }) => {
