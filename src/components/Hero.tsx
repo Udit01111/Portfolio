@@ -37,7 +37,7 @@ export function Hero() {
                 <FileText size={20} />
                 <a href='https://drive.google.com/file/d/1J1b8v75G3CjqQYaalO2oDynBWrUsxZ5M/view?usp=sharing'>Download Resume</a>
               </button>
-              <button className="px-6 py-3 border-2 border-yellow-400 dark:border-yellow-500 text-yellow-500 dark:text-yellow-400 rounded-lg font-semibold hover:bg-yellow-500 hover:text-gray-900 transition-all duration-300 transform hover:scale-105">
+              <button className="px-6 py-3 border-2 border-yellow-400 dark:border-yellow-500 text-yellow-500 dark:text-yellow-400 rounded-lg font-semibold hover:bg-yellow-500 hover:text-gray-900 transition-all duration-300 flex items-center gap-2 transform hover:scale-105">
                 <a href="mailto:udit40115@gmail.com" className="text-gray-600 dark:text-gray-300 hover:text-yellow-500 dark:hover:text-yellow-400 transition-colors transform hover:scale-110">
                 <Mail size={24} />
                Hire Me</a>
